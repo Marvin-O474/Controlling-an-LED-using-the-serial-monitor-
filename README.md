@@ -1,0 +1,2 @@
+# Controlling an LED from the serial monitor
+This repo features the code used to control an LED form the Arduino IDE serial monitor. In my prototype I used the Arduino Uno but the code is suitable for any Arduino development board 
